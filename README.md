@@ -16,5 +16,12 @@
 
 -- Deberás tener previamente la base de datos en SQL Server configurada como se explica en el paso 1.
 
+
+2. Ingresar al sistema.
+
+-- Para ingresar al sistema podrás crear un usuario dedes la ventana de registro
+
+-- Puedes ingresar con el usuario con Correo = admin@casaempeño.com y password = adminappempeño
+
    
 

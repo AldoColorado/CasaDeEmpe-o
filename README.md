@@ -17,7 +17,7 @@
 -- Deberás tener previamente la base de datos en SQL Server configurada como se explica en el paso 1.
 
 
-2. Ingresar al sistema.
+2. INGRESAR AL SISTEMA
 
 -- Para ingresar al sistema podrás crear un usuario dedes la ventana de registro
 

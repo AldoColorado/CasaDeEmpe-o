@@ -19,7 +19,7 @@
 
 2. INGRESAR AL SISTEMA
 
--- Para ingresar al sistema podrás crear un usuario dedes la ventana de registro
+-- Para ingresar al sistema podrás crear un usuario desde la ventana de registro
 
 -- Puedes ingresar con el usuario con Correo = admin@casaempeño.com y password = adminappempeño
 
